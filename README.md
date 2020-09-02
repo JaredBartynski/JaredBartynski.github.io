@@ -1,1 +1,4 @@
 # ResponsivePortfolio
+In this project I created my own portfolio. I mainly used bootstrap to put the website together since it makes it very easy to do and it has responsiveness built in. I made three different html pages for the three different pages of the portfolio. I have an about me page, the main portfolio page, and a contact form. 
+Not everything is funtional right now but it will be once I apply some javascript to the html. 
+This portfolio will be essential to my job search after this boot camp is over so I will be coming back to update the code and make the webpages reflect what I have learned in this course. 
